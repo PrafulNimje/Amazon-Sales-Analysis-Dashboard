@@ -10,6 +10,7 @@ Sales Trends Over Time: Dive into dynamic charts showcasing sales trends, helpin
 Product Performance Analysis: Gain insights into the top-performing products, enabling strategic inventory management.
 
 Features used in my Power BI project! 📊✨
+
 1️⃣ Power Pivot: Unleashing the power of Power Pivot for seamless data modeling and analysis. Transforming raw data into actionable insights.
 2️⃣ Relationship Table: Crafting robust relationships between tables to ensure a coherent and interconnected dataset, laying the foundation for comprehensive analysis.
 3️⃣ Dynamic Image: Adding visual appeal with dynamic images that change based on user interactions, enhancing the dashboard's user experience.
