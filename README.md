@@ -1,6 +1,7 @@
 Excited to share a glimpse of my recent project – an Amazon Sales Analysis Power BI Dashboard! 💻📊
 
 Data Files :- Amazon Sale Report - YT.xlsx, amazon-fashion - YT.rar
+
 Power BI file :- Amazon Sales Analysis Dashboard.pbix
 
 🚀 Leveraging the power of data visualization, this dashboard provides a comprehensive view of sales performance on Amazon. Key features include:
